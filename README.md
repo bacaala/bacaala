@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @bacaala
-- 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning web development and java
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me==> discord: "bacaala#6270"
+
