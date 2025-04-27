@@ -1,1 +1,2 @@
-
+- based in  austria
+- Light Programming experience
